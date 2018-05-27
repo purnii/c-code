@@ -1,0 +1,5 @@
+module xor(y,a,b);
+  input a,b;
+  output y;
+  y= a^b;
+  endmodule

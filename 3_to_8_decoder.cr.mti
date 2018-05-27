@@ -1,0 +1,5 @@
+C:/altera/90/modelsim_ase/examples/3_to_8_decoder.v {0 {vlog -work work -nocovercells C:/altera/90/modelsim_ase/examples/3_to_8_decoder.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+** Error: C:/altera/90/modelsim_ase/examples/3_to_8_decoder.v(1): near "3": syntax error, unexpected "INTEGER NUMBER", expecting "IDENTIFIER" or "TYPE_IDENTIFIER"
+
+} {3.0 4.0} {}}

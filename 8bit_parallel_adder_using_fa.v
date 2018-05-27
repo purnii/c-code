@@ -1,0 +1,17 @@
+module eight_bit_adder(s,car,a,b,cin);
+  input [7:0]a,b;
+  output [7:0]s;
+  input cin;
+  output car;
+  wire [6:0]c;
+  fa fa1 (s[0],c[0],a[0],b[0],cin);
+  fa fa2 (s[1],c[1],a[1],b[1],c[0]);
+  fa fa3 (s[2],c[2],a[2],b[2],c[1]);
+  fa fa4 (s[3],c[3],a[3],b[3],c[2]);
+  fa fa5 (s[4],c[4],a[4],b[4],c[3]);
+  fa fa6 (s[5],c[5],a[5],b[5],c[4]);
+  fa fa7 (s[6],c[6],a[6],b[6],c[5]);
+  fa fa8 (s[7],car,a[7],b[7],c[6]);
+endmodule
+  
+  

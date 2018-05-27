@@ -1,0 +1,10 @@
+C:/altera/90/modelsim_ase/examples/gates.v {0 {vlog -work work -nocovercells C:/altera/90/modelsim_ase/examples/gates.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module all_gates
+** Error: C:/altera/90/modelsim_ase/examples/gates.v(2): near "(": syntax error, unexpected '('
+** Error: C:/altera/90/modelsim_ase/examples/gates.v(4): Undefined variable: Y.
+** Error: C:/altera/90/modelsim_ase/examples/gates.v(1): Identifier must be declared with a port mode: Y.
+** Error: C:/altera/90/modelsim_ase/examples/gates.v(1): Identifier must be declared with a port mode: a.
+** Error: C:/altera/90/modelsim_ase/examples/gates.v(1): Identifier must be declared with a port mode: b.
+
+} {4.0 9.0} {}}

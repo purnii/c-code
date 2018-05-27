@@ -1,0 +1,8 @@
+C:/altera/90/modelsim_ase/examples/fa_using_ha.v {1 {vlog -work work -nocovercells C:/altera/90/modelsim_ase/examples/fa_using_ha.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module fa_using_ha
+
+Top level modules:
+	fa_using_ha
+
+} {} {}}

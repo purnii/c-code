@@ -1,0 +1,11 @@
+module even_odd_pg(epg,opg,a,b,c,d);
+  input a,b,c,d;
+  output epg,opg;
+  wire g1,g2,p1;
+  xor (g1,a,b);
+  xor (g2,c,d);
+  xor (epg,g1,g2);
+  xor (p1,g1,c);
+  xor(opg,p1,d);
+endmodule  
+  

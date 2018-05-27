@@ -1,0 +1,8 @@
+C:/altera/90/modelsim_ase/examples/2bit_magnitude_comparator.v {1 {vlog -work work -nocovercells C:/altera/90/modelsim_ase/examples/2bit_magnitude_comparator.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module two_bit_magnitude_comparator
+
+Top level modules:
+	two_bit_magnitude_comparator
+
+} {} {}}

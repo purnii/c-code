@@ -1,0 +1,8 @@
+C:/altera/90/modelsim_ase/examples/sr_latch.v {1 {vlog -work work -nocovercells C:/altera/90/modelsim_ase/examples/sr_latch.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module sr_latch
+
+Top level modules:
+	sr_latch
+
+} {} {}}

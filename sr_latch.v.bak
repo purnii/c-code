@@ -1,0 +1,12 @@
+module sr_latch(q,qbar,s,r);
+  input s,r;
+  output q,qbar;
+  wire z0,z1,z2,z3;
+  not (p0,s);
+  not (p1,r);
+  and (z0,p0,p1);
+  and (z1,p0,r);
+  and (z2,s,p1);
+  and (z3,s,r);
+  or (
+  
